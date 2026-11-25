@@ -1,6 +1,7 @@
 # Clicky for the People
 
 ![Clicky for the People](assets/social-preview.png)
+
 **A voice assistant that sits next to your mouse and sees your screen.**
 Hold a key, ask out loud, let go. Clicky looks at what's on your screen, answers out loud, and flies a little
 arrow to the thing you asked about. It can also do the clicking for you, and read a whole page aloud.
