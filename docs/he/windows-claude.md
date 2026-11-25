@@ -39,11 +39,11 @@ Clicky עונה לכם בעזרת Claude. הוא מדבר עם Claude דרך **C
 
 ### הורדה
 
-> **מתקין ה-Windows עדיין לא נמצא בעמוד הזה.** הוא עובר לכאן. כדאי לבדוק שוב בקרוב, או לפתוח issue ב-repository ולכתוב שאתם מחכים לו.
+לוחצים על **[הורדת Clicky-Setup.exe](https://github.com/noambenzimra/clicky-for-the-people/releases/latest/download/Clicky-Setup.exe)**. הקובץ מתחיל לרדת מיד והעמוד הזה נשאר פתוח. זה קובץ אחד, בערך 125MB.
 
 ### התקנה
 
-1. לוחצים פעמיים על מתקין Clicky (קובץ `.exe`). לא צריך סיסמת מנהל.
+1. לוחצים פעמיים על `Clicky-Setup.exe`. לא צריך סיסמת מנהל.
 2. אם Windows מציג **"Windows protected your PC"** (Clicky עוד לא חתום דיגיטלית), לוחצים **More info ← Run anyway**. זה צפוי.
 3. מסיימים את ההתקנה. Clicky נפתח ומופיע ב-**system tray**, האייקון הקטן של הסמן ליד השעון. לא רואים? לוחצים על החץ **^** ליד השעון.
 

@@ -37,11 +37,11 @@ You never open Claude Code again after step 2. Clicky uses it in the background.
 
 ### Download
 
-> **The Windows installer is not on this page yet.** It is being moved here. Check back soon, or open an issue on this repository and say you're waiting for it.
+Click **[Download Clicky-Setup.exe](https://github.com/noambenzimra/clicky-for-the-people/releases/latest/download/Clicky-Setup.exe)**. The file starts downloading right away and this page stays open. It is a single file, about 125 MB.
 
 ### Install
 
-1. Double-click the Clicky installer (`.exe`). No administrator password is needed.
+1. Double-click `Clicky-Setup.exe`. No administrator password is needed.
 2. If Windows shows **"Windows protected your PC"** (Clicky isn't code-signed yet), click **More info → Run anyway**. This is expected.
 3. Finish the installer. Clicky starts and appears in the **system tray**, the small cursor icon by the clock. Don't see it? Click the **^** arrow next to the clock.
 

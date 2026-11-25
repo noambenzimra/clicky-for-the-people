@@ -25,7 +25,7 @@ Pick one. Each page tells you exactly which single file to download, so there is
 | Your computer | Go to |
 |---|---|
 | **Mac** | **[Mac: install with Claude →](docs/en/mac-claude.md)**<br>**[Mac: install with ChatGPT / Codex →](docs/en/mac-codex.md)** |
-| **Windows** | **[Windows: install with Claude →](docs/en/windows-claude.md)** (installer coming to this page soon) |
+| **Windows** | **[Windows: install with Claude →](docs/en/windows-claude.md)** |
 
 On a Mac, choose the page that matches the subscription you pay for. Not sure? Choose Claude: Clicky was built and tuned with it first, so it is faster and more accurate. The Codex route works but is a few seconds slower to start answering. On Windows, Clicky works with Claude for now.
 
@@ -70,7 +70,7 @@ The Hebrew voice is built on open-source work:
 | המחשב שלכם | לאן ללכת |
 |---|---|
 | **מק** | **[מק: התקנה עם Claude ←](docs/he/mac-claude.md)**<br>**[מק: התקנה עם ChatGPT / Codex ←](docs/he/mac-codex.md)** |
-| **Windows** | **[Windows: התקנה עם Claude ←](docs/he/windows-claude.md)** (המתקין יעלה לכאן בקרוב) |
+| **Windows** | **[Windows: התקנה עם Claude ←](docs/he/windows-claude.md)** |
 
 במק בוחרים את העמוד שמתאים למנוי שאתם משלמים עליו. לא בטוחים? בוחרים Claude: Clicky נבנה וכוונן איתו קודם, אז הוא מהיר ומדויק יותר. הדרך עם Codex עובדת, אבל מתחילה לענות כמה שניות מאוחר יותר. ב-Windows Clicky עובד כרגע עם Claude.
 
